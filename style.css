@@ -171,6 +171,10 @@ h1.hero {
 
 h2.hero {
   font-size: 30px;
+  margin-bottom: 25px;
+}
+h3.hero {
+  font-size: 25px;
   margin-bottom: 60px;
 }
 
