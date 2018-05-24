@@ -147,7 +147,7 @@ body {
   background: #123;
 }
 .section .slider {
-  background:url(./src/image/backgroud.JPG);
+  background:url(./src/image/backgroud_small.jpg);
   background-repeat:no-repeat;
   background-size:100% 100%;
   -webkit-background-origin:content-box;
