@@ -284,13 +284,13 @@ h1.hero:after {
   font-size: 20px;
   font-weight: 300;
   font-family: Georgia, sans-serif;
-  line-height: 120%;
+  line-height: 130%;
 }
 .col .feature2 {
   font-size: 21px;
   font-weight: 300;
   font-family: Georgia, sans-serif;
-  margin-bottom: 30px;
+  margin-bottom: 36px;
 }
 
 .col .AuthorDate {
@@ -408,6 +408,7 @@ h1.hero:after {
 .col h1 {
   padding: 0 1%;
   text-align: center;
+  line-height: 120%;
 }
 
 .group.margin {
