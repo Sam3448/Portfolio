@@ -231,6 +231,11 @@ h1.hero:after {
   margin: 0 1%;
 }
 
+.col.fourresearch {
+  width: 23%;
+  margin: 0 1%;
+}
+
 .col.two {
   width: 40%;
   margin: 0 2.5%;
@@ -270,9 +275,10 @@ h1.hero:after {
 
 .col .service,
 .col .feature {
-  font-size: 21px;
+  font-size: 20px;
   font-weight: 300;
   font-family: Georgia, sans-serif;
+  line-height: 120%;
 }
 .col .feature2 {
   font-size: 21px;
