@@ -159,23 +159,25 @@ body {
 }
 
 .hero {
-  font-family: Georgia, serif;
-  color: white;
+  color: #F5F5F4;
   font-weight: normal;
   letter-spacing: 1px;
 }
 
 h1.hero {
   font-size: 54px;
+  font-family: Georgia, serif;
 }
 
 h2.hero {
   font-size: 30px;
   margin-bottom: 25px;
+  font-family: Georgia, serif;
 }
 h3.hero {
-  font-size: 25px;
+  font-size: 24px;
   margin-bottom: 60px;
+  font-style:italic;
 }
 
 h1.hero:after {
