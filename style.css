@@ -12,7 +12,7 @@ body {
 .container {
   position: relative;
   width: 1170px;
-  margin: 0 auto;
+  margin:0 auto;
   color: #444;
   font-size: 14px;
   font-weight: 300;
@@ -110,6 +110,7 @@ body {
     padding:0; margin:0;
     width:20%;
     position: relative;
+    font-style: italic;
 }
   
 #navigation-bar a {
@@ -164,6 +165,13 @@ body {
   letter-spacing: 1px;
 }
 
+h1.section_name{
+  font-size: 30px;
+  font-family: Georgia, sans-serif;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
 h1.hero {
   font-size: 54px;
   font-family: Georgia, serif;
@@ -215,8 +223,6 @@ h1.hero:after {
 
 .col {
   float: left;
-  padding: 0;
-  margin: 0;
   position: relative;
 }
 
@@ -364,9 +370,6 @@ h1.hero:after {
   margin-top: 17px;
   margin-left: 2px;
   transition: background 0.25s linear, color 0.25s linear;
-}
-.col .section_name {
-  font-family: Georgia, sans-serif;
 }
 
 .col .icon.side {
